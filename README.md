@@ -1,1 +1,1 @@
-This site is published at https://solitary82.github.io/kodilla_zadanie_9.6
+This site is published at https://mwaplak.github.io/kodilla_zadanie_9.6
